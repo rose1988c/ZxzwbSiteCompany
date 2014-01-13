@@ -6,7 +6,7 @@ $site_title = 'Design';
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<meta name="baidu_union_verify" content="6d69bd61e308b36158a462e8406697d9">
+<meta name="baidu_union_verify" content="fe208513ea6e75e5e7e405c3c5b8df28">
 <meta http-equiv="imagetoolbar" content="no" />
     <?php
     // 规避 单一的分页 title
