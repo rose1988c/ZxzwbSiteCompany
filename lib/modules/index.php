@@ -9,6 +9,6 @@ function index()
     
     $tpl->render('index.tpl.php', array (
         'title' => '首页' 
-    ), 'layout.tpl.php');
+    ), 'layoutAd.tpl.php');
 }
 ?>

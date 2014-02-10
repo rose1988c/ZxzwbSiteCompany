@@ -49,58 +49,8 @@ $site_title = 'Design';
 </head>
 
 <body>
-	<div class="cover-wrap">
-		<div class="wrap">
-			<div id="header">
-				<div id="logo">
-					<a href="/"></a>
-				</div>
-				<ul id="auth-area">
-<!-- 					<li><a href="/login/" id="login-link">Log in</a></li> -->
-				</ul>
-			</div>
-			<div id="content-head">
-				<h1>杭州润邦装饰工程有限公司 — 设计新风尚</h1>
-<!-- 				<p>设计宣言</p> -->
-			</div>
-		</div>
-
-
-		<nav id="subnav" class="nav-g">
-			<ul>
-				<li <?php if (!isset($nav)) { echo 'class="current"';}?>><a href="/">首页</a></li>
-				<li <?php if (isset($nav) && $nav == 'story') { echo 'class="current"';}?>><a href="/story/">品牌故事</a></li>
-				<li <?php if (isset($nav) && $nav == 'case') { echo 'class="current"';}?>><a href="/case/">设计</a></li>
-				<li <?php if (isset($nav) && $nav == 'about') { echo 'class="current"';}?>><a href="/about/">关于</a></li>
-			</ul>
-		</nav>
-	</div>
-	<div id="main">
-        <?php echo $body;?>
-	</div>
-
-	<div class="clear"></div>
-
-	<div class="cover-wrap">
-		<div class="wrap">
-			<div id="footer">
-				<div class="address unit-push-left">
-					<b>杭州润邦装饰工程有限公司</b>
-					<p>杭州润邦装饰工程有限公司城南分公司：汽车南站 电话：0571-xxxxx</p>
-					<p>©www.zxzwb.com 2009-2013</p>
-				</div>
-				<div class="unit-push-right">
-					<nav class="nav-g">
-						<ul>
-							<li><a href="/">首页</a></li>
-							<li><a href="/story/">品牌故事</a></li>
-							<li><a href="/case/">设计</a></li>
-							<li><a href="/about/">About</a></li>
-						</ul>
-					</nav>
-				</div>
-			</div>
-		</div>
-	</div>
+<center>
+    <iframe frameborder="0" marginheight="0" marginwidth="0" border="0" id="etgFrm" width="1030" height="3810" src="http://re.paipai.com/tws/etgcl/click?fu=http%3A%2F%2Fte.paipai.com%2Fcps_lady.shtml%3FPTAG%3D10076.7.1&pps=etg.0_60784_20_0"></iframe>
+</center>
 </body>
 </html>
